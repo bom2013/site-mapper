@@ -1,6 +1,5 @@
 # Auther: Noam Ben Shlomo(bom2013)
 # This code is based on code in the great book "Black hat python"
-# https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900
 
 import threading
 import urllib.request
