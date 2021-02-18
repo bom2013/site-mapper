@@ -54,6 +54,6 @@ Show full name for statuc code | `-s` | `--status` | |
 Remove non-200 response | `-r` | `--remove` | | |
 Add file extensions | `-e` | `--extension` | | |
 ## A note about copyright
-The *[all.txt](https://github.com/bom2013/site-mapper/blob/main/all.txt "all.txt")* file is from [SVNDigger](https://www.netsparker.com/blog/web-security/svn-digger-better-lists-for-forced-browsing/ "SVN Digger wordlist")) and it's licensed under GPL. 
+The *[all.txt](https://github.com/bom2013/site-mapper/blob/main/all.txt "all.txt")* file is from [SVNDigger](https://www.netsparker.com/blog/web-security/svn-digger-better-lists-for-forced-browsing/ "SVN Digger wordlist") and it's licensed under GPL. 
 ## Contribution
 Any contribution is welcome, just send a PR :)
